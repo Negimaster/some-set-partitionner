@@ -1,5 +1,5 @@
-# venn-partitionner
-A bunch of classes in Python to compute a "Venn diagramm"
+# some-set-partitionner
+A bunch of classes in Python to compute a ~~"Venn diagramm"~~ some kind of partitionning
 
 ## Usage
 
